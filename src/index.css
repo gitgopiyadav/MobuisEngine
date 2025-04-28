@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans&family=Sora:wght@100..800&display=swap');
+@import "tailwindcss";
+
+/* *{
+  font-family: Outfit;
+  scroll-behavior: smooth;
+} */
+
+* {
+  font-family: "Sora", sans-serif;
+  scroll-behavior: smooth;
+  /* font-optical-sizing: auto; */
+  /* font-weight: 600; */
+  /* font-style: normal; */
+}
